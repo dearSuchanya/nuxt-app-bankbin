@@ -1,5 +1,5 @@
 # Role
-Act as a Senior Full Stack Developer specializing in Nuxt 3 and Tailwind CSS.
+Act as a Senior  Full Stack Developer specializing in Nuxt 3 and Tailwind CSS.
 
 # Project Goal
 Create a "Waste Bank System" (Web Application) used to manage buying recyclable waste from members.
